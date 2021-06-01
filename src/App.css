@@ -1,0 +1,124 @@
+.App {
+    text-align: center;
+    display: flex;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.border {
+    border: 10px solid lightblue;
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.btnBorder {
+    display: flex;
+    width: 250px;
+    height: 65px;
+    margin: 0 auto;
+}
+
+.count {
+    padding-top: 10%;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+    background-color: lightblue;
+    height: 100px;
+    width: 200px;
+    margin: 40px auto;
+    font-size: 25px;
+}
+
+.countEnd {
+    padding-top: 10%;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+    background-color: lightblue;
+    height: 100px;
+    width: 200px;
+    margin: 40px auto;
+    color: red;
+    font-size: 30px;
+}
+
+.button {
+    background-color: lightblue;
+    height: 50px;
+    width: 110px;
+    font-size: 30px;
+    border-radius: 15px;
+    margin: 5px;
+    outline: none;
+}
+
+.set{
+    border: 10px solid lightblue;
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.buttonSet{
+    background-color: lightblue;
+    height: 50px;
+    width: 110px;
+    font-size: 30px;
+    border-radius: 15px;
+    margin: 5px;
+    outline: none;
+}
+
+.start{
+    margin-left: 10px;
+    margin-top: 90px;
+    display: flex;
+    width: 280px;
+    margin-bottom: 20px;
+}
+
+.start div{
+    font-size: 20px;
+}
+
+.end{
+    margin-left: 10px;
+    display: flex;
+    width: 280px;
+    margin-bottom: 55px;
+}
+
+.end div{
+    font-size: 20px;
+}
+
+.max{
+    margin-right: 100px;
+}
+
+.min{
+    margin-right: 100px;
+}
+
+.startInput{
+    width: 70px;
+}
+
+.endInput{
+    width: 70px;
+}
+
+.setBtnBorder{
+    width: 250px;
+    height: 65px;
+    margin: 0 auto;
+}
+
+.inputRed{
+    background-color: #fcdbe1;
+    border-color: red;
+    width: 70px;
+}
+
